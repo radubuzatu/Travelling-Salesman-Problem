@@ -12,8 +12,8 @@ The TSP is a well-known NP-hard problem in the fields of computer science and op
 
 An arbitrary solution
 
-<img align="center" width="60%" height="60%" src="https://github.com/radubuzatu/Travelling-Salesman-Problem/blob/main/img/arbitrary_generated_solution.png">
+<img align="center" width="55%" height="55%" src="https://github.com/radubuzatu/Travelling-Salesman-Problem/blob/main/img/arbitrary_generated_solution.png">
 
 The shortest Genetic Algorithm solution
 
-<img align="center" width="60%" height="60%" src="https://github.com/radubuzatu/Travelling-Salesman-Problem/blob/main/img/ga_generated_solution.png">
+<img align="center" width="55%" height="55%" src="https://github.com/radubuzatu/Travelling-Salesman-Problem/blob/main/img/ga_generated_solution.png">
