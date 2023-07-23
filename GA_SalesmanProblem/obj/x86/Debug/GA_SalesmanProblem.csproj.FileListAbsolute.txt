@@ -1,0 +1,22 @@
+c:\users\radu\documents\visual studio 2010\Projects\C#\GA_SalesmanProblem\GA_SalesmanProblem\bin\Debug\GA_SalesmanProblem.exe
+c:\users\radu\documents\visual studio 2010\Projects\C#\GA_SalesmanProblem\GA_SalesmanProblem\bin\Debug\GA_SalesmanProblem.pdb
+c:\users\radu\documents\visual studio 2010\Projects\C#\GA_SalesmanProblem\GA_SalesmanProblem\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\radu\documents\visual studio 2010\Projects\C#\GA_SalesmanProblem\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.Form1.resources
+c:\users\radu\documents\visual studio 2010\Projects\C#\GA_SalesmanProblem\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.Properties.Resources.resources
+c:\users\radu\documents\visual studio 2010\Projects\C#\GA_SalesmanProblem\GA_SalesmanProblem\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\radu\documents\visual studio 2010\Projects\C#\GA_SalesmanProblem\GA_SalesmanProblem\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\radu\documents\visual studio 2010\Projects\C#\GA_SalesmanProblem\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.exe
+c:\users\radu\documents\visual studio 2010\Projects\C#\GA_SalesmanProblem\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.pdb
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.exe
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.pdb
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_SalesmanProblem2\GA_SalesmanProblem\bin\Debug\GA_SalesmanProblem.exe
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_SalesmanProblem2\GA_SalesmanProblem\bin\Debug\GA_SalesmanProblem.pdb
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.Form1.resources
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.Properties.Resources.resources
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Radu\Documents\Visual Studio 2010\Projects\C#\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects C#\C#\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.exe
+D:\Projects C#\C#\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.pdb
+C:\Users\Radu\Desktop\Programe Teza\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.exe
+C:\Users\Radu\Desktop\Programe Teza\GA_SalesmanProblem2\GA_SalesmanProblem\obj\x86\Debug\GA_SalesmanProblem.pdb
