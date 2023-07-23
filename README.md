@@ -6,7 +6,7 @@ A Genetic Algorithm implementation of the Traveling Salesman Problem.
 
 The travelling salesman problem (TSP) asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?". A detailed description of this problem is given in  https://en.wikipedia.org/wiki/Travelling_salesman_problem
 
-The TSP is a well-known NP-hard problem in the fields of computer science and operations research, with important real-world applications for logistics and delivery businesses. In order to solve the TSP, exact approaches can only be applied on problems of small scale. Here, a Genetic Algorithm approach it is proposed to solve TSP. 
+The TSP is a well-known NP-hard problem in the fields of computer science and operations research, with important real-world applications for logistics and delivery businesses. In order to solve the TSP, exact approaches can only be applied on problems of small scale. Here, a Genetic Algorithm is proposed to solve TSP. 
 
 <h3>An example of the program </h3>
 
